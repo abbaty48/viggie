@@ -1,5 +1,5 @@
 name: veggie
-description: A new Flutter project.
+description: Veggie for buy and selling viggies for viggies.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_bloc: ^8.1.3
   http: ^1.1.0
+  shimmer: ^3.0.0
+  page_transition: ^2.0.9
+  flutter_credit_card: ^3.0.7
 
 dev_dependencies:
   flutter_test:
